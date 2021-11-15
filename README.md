@@ -39,11 +39,9 @@ Extra aandacht voor de surface laag
 https://www.laplace.com/nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Home 
 <img src="images/laplace-home.jpg" width="375px" alt="homepagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Recepten 
 <img src="images/laplace-recepten.jpg" width="375px" alt="receptenpagina">
  
 </details>
